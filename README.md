@@ -11,3 +11,4 @@ django做的后台的一个music网站
 **就先安装一下cnpm ，然后直接cnpm install**
 
 **cnpm install 完成后，直接cnpm run dev就行**
+**这里vue项目直接用的别人大佬的前端项目这是地址https://github.com/XuSHenggongzi/XUSHENG/tree/master**
